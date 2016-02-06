@@ -4,7 +4,9 @@
   "description": "time-stamp-microservice",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "serve-favicon": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
